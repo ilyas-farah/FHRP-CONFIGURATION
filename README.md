@@ -100,7 +100,4 @@ conf t
 int g0/0
 standby 10 ip 10.1.1.3
 end
-
-
-
-
+![FHRP Lab](https://user-images.githubusercontent.com/106605770/178120819-95235edc-07c9-40bc-b20d-bfe794866f0d.png)
